@@ -1,2 +1,1 @@
-# thunderdb.json
-INI ADALAH DB THUNDER BLAST V2
+Thunder blast
